@@ -1,0 +1,5 @@
+name             "one"
+maintainer       "Barrie Bremner"
+maintainer_email "devnull@barriebremner.com"
+description      "A simple cookbook to test Berkshelf behaviour"
+version          "1.0.0"
